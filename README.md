@@ -1,6 +1,12 @@
 # Biomedical Image Processing Laboratory
 
-Welcome to the **Biomedical Image Processing Laboratory** repository! This repository presents a collection of exciting projects related to the field of biomedical image processing. It covers a wide range of approaches to analyze, process, and classify biomedical images, from basic image filtering techniques to advanced machine learning models.
+---
+Projects for the "Laboratorio di Elaborazione di Bioimmagini" course held at @Politecnico di Milano.
+
+---
+
+
+This repository presents a collection of exciting projects related to the field of biomedical image processing. It covers a wide range of approaches to analyze, process, and classify biomedical images, from basic image filtering techniques to advanced machine learning models.
 
 ## Overview
 
@@ -52,7 +58,7 @@ Clone this repository and navigate through different projects by exploring their
 
 - **OpenCV**: For general image processing and manipulation.
 - **scikit-learn**: For predictive data analysis.
-- **PyTorch / TensorFlow**: For deep learning models and neural networks.
+- **PyTorch**: For deep learning models and neural networks.
 - **MATLAB**: For traditional image processing and prototyping.
 - **NumPy / Pandas**: For data handling and analysis.
 
