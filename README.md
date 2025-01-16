@@ -7,23 +7,10 @@ Welcome to the **Biomedical Image Processing Laboratory** repository! This repos
 This repository explores several essential areas of biomedical image processing:
 
 ### **1. Image Filtering**
-   - Techniques to enhance images, reduce noise, and improve the quality of medical images for further analysis.
-
 ### **2. Image Segmentation**
-   - Methods to separate different structures within medical images, such as organs, lesions, or other regions of interest. Techniques include thresholding, region growing, and advanced machine learning-based segmentation methods.
-
 ### **3. Edge Detection**
-   - Identifying the boundaries of structures in medical images to aid in understanding anatomical features and diagnosing abnormalities.
-
 ### **4. Classification**
-   - Using traditional feature extraction methods and cutting-edge deep learning techniques to classify biomedical images, such as identifying different disease stages or anatomical features.
-   - Includes classical approaches like SVMs, decision trees, and also modern techniques with Convolutional Neural Networks (CNNs), AlexNet, and MobileNet.
-
-### **5. Advanced Machine Learning & Deep Learning**
-   - The use of neural networks, transfer learning, and fine-tuning pre-trained models to achieve high-accuracy results in tasks like disease detection and image classification.
-
-### **6. Additional Cool Projects**
-   - Various other projects showcasing the potential of modern image processing in healthcare and biomedical fields. These may include real-time analysis, 3D medical imaging, and more.
+### **5. Machine Learning & Deep Learning**
 
 ---
 
@@ -48,6 +35,10 @@ This repository explores several essential areas of biomedical image processing:
 ### **5. Noise Identification and Filtering**
    - **Goal**: Identifying and removing noise from corrupted images using custom filtering solutions.
    - This project focuses on detecting the type of noise in biomedical images (e.g., Gaussian, Salt and Pepper) and applying appropriate filtering techniques to improve image quality.
+
+### **6. Blister Pack Analysis**
+   - **Goal**: Automatically detecting how many pills have been used in a blister pack by analyzing an image of the blister.
+   - This project detects the external contours of the blister, performs perspective warping to correct image inclination, and calculates the aspect ratio of the blister. It then identifies and separates the pills inside the blister using contour detection and image segmentation techniques.
 
 ---
 
