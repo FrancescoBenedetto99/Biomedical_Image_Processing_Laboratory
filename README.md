@@ -12,11 +12,11 @@ This repository presents a collection of exciting projects related to the field 
 
 This repository explores several essential areas of biomedical image processing:
 
-### **1. Image Filtering**
-### **2. Image Segmentation**
-### **3. Edge Detection**
-### **4. Classification**
-### **5. Machine Learning & Deep Learning Models**
+- Image Filtering
+- Image Segmentation
+- Edge Detection**
+- Classification
+- Machine Learning & Deep Learning Models
 
 ---
 
