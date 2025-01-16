@@ -1,3 +1,7 @@
+# Cells segmentation and classification 
+
+---
+
 ## Overview  
 This exercise involves the analysis of a microscopic image (**plasma.jpg**) containing plasmatic cells. The goal is to identify and segment:  
 1. **Normal cells**: Characterized by small, blue nuclei.  
