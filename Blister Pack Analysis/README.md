@@ -13,3 +13,11 @@ The steps involved in this exercise are as follows:
 2. **Warping the Image**: The image was initially not taken perpendicular to the blister, causing an inclination. Therefore, warping was performed to correct the perspective and align the image properly.
 3. **Aspect Ratio Calculation**: After detecting the external contours and correcting the image orientation, the aspect ratio (width/height) of the blister is computed.
 4. **Pill Detection**: Analyzing the blister's interior to detect which pills remain, using techniques like thresholding and contour detection to separate used and unused pills.
+
+---
+
+## Preview of Input Image  
+
+<center>
+  <img src="blister.jpg" alt="Plasma Cells" width="300">
+</center>
