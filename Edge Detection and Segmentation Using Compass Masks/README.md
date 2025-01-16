@@ -14,5 +14,5 @@ The main steps of the process include:
 ## Preview of Input Image  
 
 <center>
-  <img src="plasma.jpg" alt="Plasma Cells" width="300">
+  <img src="disk1.jpg" alt="Plasma Cells" width="300">
 </center>
