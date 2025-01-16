@@ -5,5 +5,5 @@ In this exercise,  will be implemented the homomorphic filtering procedure and a
 
 ## Preview of the image
 <center>
-  <img src="plasma.jpg" alt="Plasma Cells" width="300">
+  <img src="h2_PET_image.tif" alt="Image to filter" width="300">
 </center>
