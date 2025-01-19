@@ -14,7 +14,7 @@ This repository explores several essential areas of biomedical image processing:
 
 - Image Filtering
 - Image Segmentation
-- Edge Detection**
+- Edge Detection
 - Classification
 - Machine Learning & Deep Learning Models
 
