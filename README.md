@@ -8,16 +8,6 @@ Projects for the "Laboratorio di Elaborazione di Bioimmagini" course held at @Po
 
 This repository presents a collection of exciting projects related to the field of biomedical image processing. It covers a wide range of approaches to analyze, process, and classify biomedical images, from basic image filtering techniques to advanced machine learning models.
 
-## Overview
-
-This repository explores several essential areas of biomedical image processing:
-
-- Image Filtering
-- Image Segmentation
-- Edge Detection
-- Classification
-- Machine Learning & Deep Learning Models
-
 ---
 
 ## Projects in this Repository
