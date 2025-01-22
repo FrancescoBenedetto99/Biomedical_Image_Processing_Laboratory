@@ -51,7 +51,7 @@ This folder contains the files for Exercise 2, which focuses on fine-tuning Mobi
 
 ## Example Knee Images for Each Grade
 
-Below is a visual grid displaying examples of knee X-ray images for each severity grade. T
+Below is a visual grid displaying examples of knee X-ray images for each severity grade. 
  **Grade 0: Healthy Knee** | **Grade 1: Doubtful** | **Grade 2: Minimal** | **Grade 3: Moderate** | **Grade 4: Severe** |
 |:--------------------------:|:---------------------:|:--------------------:|:---------------------:|:-------------------:|
 | ![Grade 0 Example](images/Grade_0/9009927_2.png) | ![Grade 1 Example](images/Grade_1/9035317R.png) | ![Grade 2 Example](images/Grade_2/9011053R.png) | ![Grade 3 Example](images/Grade_3/9011053L.png) | ![Grade 4 Example](images/Grade_4/9012867R.png) |
